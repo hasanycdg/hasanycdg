@@ -4,7 +4,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hasan-y%C3%BCcedag/) 
 
-[![My Portfolio](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white))]([https://linkedin.com/in/https://www.linkedin.com/in/hasan-y%C3%BCcedag/](https://magnificent-lily-8ea307.netlify.app/)) 
 
 
 ### ✍️ Random Dev Quote
