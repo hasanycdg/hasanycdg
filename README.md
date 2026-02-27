@@ -1,6 +1,6 @@
-# 💫 About Me
+#  About Me
 
-## 👋 Hi, I'm Hasan Yücedağ
+## 👋 Hi, I'm Hasan Yücedag
 
 Software Developer based in Innsbruck, Austria.  
 I design and build scalable web applications, AI-powered systems, and data-driven solutions.
