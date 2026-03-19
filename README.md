@@ -75,3 +75,9 @@ AWS (EC2, Lambda) · Docker · Git · Linux (Ubuntu) · Performance Optimization
 ## 🌐 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/hasan-y%C3%BCcedag/)
+
+## 📊 GitHub Stats From Work
+
+
+![Streak](https://streak-stats.demolab.com?user=florianmatthiashasan)
+
