@@ -1,83 +1,81 @@
-#  About Me
+<div align="center">
 
-## 👋 Hi, I'm Hasan Yücedag
+# Hasan Yücedag
 
-Software Developer based in Innsbruck, Austria.  
-I design and build scalable web applications, AI-powered systems, and data-driven solutions.
+**Full Stack Developer · AI Systems · Cloud Infrastructure**
 
-I focus on clean architecture, performance, and creating software that solves real-world problems.  
-Currently building and working on meaningful products while continuously improving my technical depth.
+Innsbruck, Austria 
 
-Portfolio:  
-👉 https://hasanyucedagportfolio.vercel.app/
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hasanyucedagportfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-y%C3%BCcedag/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yucedagh1@gmail.com)
 
----
-
-## 🚀 What I Do
-
-- Develop full-stack web applications  
-- Build AI-driven systems (RAG, embeddings, vector search)  
-- Design scalable backend architectures  
-- Optimize performance (Lighthouse, Core Web Vitals, caching)  
-- Work with cloud infrastructure and deployments  
-- Contribute to real-world production systems  
+</div>
 
 ---
 
-## 💻 Tech Stack
+## About
 
-### 🖥️ Languages
-Java · Python · C · PHP · JavaScript · SQL · R · HTML · CSS  
+Full Stack Developer with a B.Sc. in Computer Science (University of Innsbruck, 2025) and hands-on experience building and maintaining production web applications.
 
-### ⚙️ Backend
-Flask · Spring Boot · REST APIs · WordPress (Custom Development) · Server-side Architecture  
+Currently working at **florianmatthias** — developing RAG-based AI chatbot systems, custom WordPress solutions, and managing AWS cloud infrastructure for client projects.
 
-### 🎨 Frontend
-React · Flutter · Responsive Design · Modern UI Implementation  
-
-### 🧠 AI / Data
-Machine Learning · Embeddings · Vector Search · Data Analysis · Feature Engineering  
-
-### ☁️ Cloud & DevOps
-AWS (EC2, Lambda) · Docker · Git · Linux (Ubuntu) · Performance Optimization  
+I enjoy working across the full stack: from designing backend architectures and AI integrations to clean, performant frontends. I'm particularly interested in building systems that are reliable, maintainable, and solve real problems.
 
 ---
 
-## 🧠 Areas of Interest
+## Tech Stack
 
-- AI-powered web applications  
-- Scalable system design  
-- Performance engineering  
-- Algorithmic problem solving  
-- Building digital products  
+**Languages**
+`JavaScript` `PHP` `Python` `Java` `C#` `SQL` `C` `R` `HTML` `CSS`
 
----
+**Backend & APIs**
+`Node.js` `Flask` `Spring Boot` `REST APIs` `WordPress (Custom Dev, ACF, Plugins)`
 
-## 👯 Open to Collaborate On
+**Frontend**
+`React` `Flutter` `Responsive Design`
 
-- AI & backend-heavy systems  
-- SaaS platforms  
-- Open-source tools  
-- Data-driven applications  
+**AI & Data**
+`RAG Systems` `Embeddings` `Vector Search` `Machine Learning` `Data Analysis`
 
----
-
-## 💬 Ask Me About
-
-- Backend architecture  
-- AI integration in web systems  
-- Cloud deployment  
-- Performance optimization  
-- Software engineering growth  
+**Cloud & DevOps**
+`AWS (EC2, S3, CloudFront, Lambda)` `Docker` `Git` `Linux (Ubuntu)`
 
 ---
 
-## 🌐 Connect With Me
+## Experience Highlights
 
-[LinkedIn](https://www.linkedin.com/in/hasan-y%C3%BCcedag/)
+**Fullstack Developer — florianmatthias** *(Aug 2025 – present)*
+- Built and integrated a RAG-based AI chatbot system for client websites
+- Developed custom WordPress solutions (ACF, custom blocks, plugins, API integrations)
+- Deployed and managed applications on AWS (EC2, S3, CloudFront)
+- Optimized performance and maintained multiple production websites
 
-## 📊 GitHub Stats From Work
+**Software Development Intern — Translogica** *(Jul – Aug 2024)*
+- Implemented and optimized ~20 features in a production C# / ABP Framework environment
+- Contributed to debugging, testing, and system improvements
 
+---
 
-![Streak](https://streak-stats.demolab.com?user=florianmatthiashasan)
+## GitHub Activity
 
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=florianmatthiashasan&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## Currently
+
+- 🔨 Building AI-powered web applications in production
+- 📍 Based in Innsbruck 
+- 🤝 Open to full-time roles, freelance projects, and collaborations in AI, backend, and full stack development
+- 🌐 Languages: Turkish (native) · Kurdish (native) · German (B2) · English (B2)
+
+---
+
+<div align="center">
+<sub>Feel free to reach out — always happy to connect.</sub>
+</div>
