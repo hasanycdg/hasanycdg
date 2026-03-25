@@ -71,7 +71,6 @@ I enjoy working across the full stack: from designing backend architectures and 
 
 - 🔨 Building AI-powered web applications in production
 - 📍 Based in Innsbruck 
-- 🤝 Open to full-time roles, freelance projects, and collaborations in AI, backend, and full stack development
 - 🌐 Languages: Turkish (native) · Kurdish (native) · German (B2) · English (B2)
 
 ---
